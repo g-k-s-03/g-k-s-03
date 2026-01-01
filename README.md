@@ -38,13 +38,6 @@ Exploring new technologies and improving coding skills.
 
 ---
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=g-k-s-03&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=g-k-s-03&layout=compact&theme=radical)  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=g-k-s-03&theme=react-dark)
-
----
-
 ## 🌐 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/govind-singh-a02212328/?trk=opento_sprofile_details) | [Email](mailto:govindsingh97704@gmail.com)
 
