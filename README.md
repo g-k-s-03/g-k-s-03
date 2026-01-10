@@ -1,4 +1,4 @@
-# g-k-03# 
+# g-k-03
 👋 Hi, I'm Govind Singh (g-k-s-03)
 
 🎓 2nd Year Computer Engineering Student  
