@@ -34,7 +34,7 @@ Exploring new technologies and improving coding skills.
 
 ## 📌 Pinned Repositories
 - [Ell-ena](https://github.com/g-k-s-03/Ell-ena)  
-- [Devr AI](https://github.com/g-k-s-03/Devr-AI)  
+- [Devr AI](https://github.com/AOSSIE-Org/Devr.AI)  
 
 ---
 
